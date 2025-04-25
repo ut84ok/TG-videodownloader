@@ -5,8 +5,8 @@ import re
 import json
 
 # Замените на ваши данные API
-api_id = 29078611
-api_hash = 'dbfbef828e52e0b6f9add061fda11d10'
+api_id = 0123456
+api_hash = 'abcde123456789'
 
 # Имя файла для хранения последней скачанной ссылки
 LAST_LINK_FILE = 'last_downloaded_link.txt'
